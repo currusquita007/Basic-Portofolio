@@ -1,0 +1,101 @@
+body {
+	
+	font-style: "Serif" ;
+	color: #333333;
+	margin: 0;
+	padding: 0;
+/*	background-image: url("images/largeleather.png")
+*/}
+
+header {
+
+	color: #d21034; 
+	height: 40px;
+	background-color: white;
+
+
+
+
+}
+
+h1{
+	background-color: #333333;
+	font-size: 28px;
+	color: white;
+    text-align: center;
+	color: white;
+	font-weight: bold;
+	width:400px;
+	height: 40px;
+	margin-left: 140px;
+}
+
+h2{
+	font-size: 24px;
+}
+
+
+
+img {
+
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-right: 20px;
+}
+
+a {
+	color: red;
+}
+
+#main-bio{
+	float: left;
+	width: 650px;
+	margin-top: 30px;
+	margin-left: 140px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	padding-left:20px;
+	padding-right:20px;
+	padding-bottom:20px;
+	padding-top:20px;
+	background-color: white;
+}
+
+#bio-image{
+	float: left;
+	
+	
+}
+
+#github{
+	float:left;
+	width:55px;
+	height:55px;
+	margin-left:15px;
+	margin-right:5px;
+}
+
+#linkdin{
+	float:left;
+	width:55px;
+	height:55px;
+	margin-right:5px;
+}
+
+#stackoverflow{
+	float:left;
+	width:50px;
+	height:50px;
+	padding-top:2px;
+	margin-right:15px;
+}
+
+#contact-info{
+	float: left;
+	width: 200px;
+	line-height:150%;
+	padding: 20px 20px 30px 20px;
+	background-color: white;
+	margin-top:30px;
+}
