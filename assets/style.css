@@ -13,9 +13,22 @@ header {
 	height: 40px;
 	background-color: white;
 
+}
 
+footer {
+	position: fixed;
+	bottom: 0;
+    color: #333333;
+	height: 30px;
+	width: 100%;
+	background-color: white;
+	padding: 7px 500px 7px 500px;
 
+}
 
+#footnote {
+    text-align: center;
+	font-size: 12px;
 }
 
 h1{
@@ -49,6 +62,7 @@ a {
 }
 
 #main-bio{
+	position: relative;
 	float: left;
 	width: 650px;
 	margin-top: 30px;
@@ -98,4 +112,36 @@ a {
 	padding: 20px 20px 30px 20px;
 	background-color: white;
 	margin-top:30px;
+}
+
+#nameContact{
+	float:left;
+	width:500px;
+	height:15px;
+	margin:10px 15px 15px 10px;
+}
+
+#emailContact{
+	float:left;
+	width:500px;
+	height:15px;
+	margin:0px 15px 15px 10px;
+	
+}
+
+
+#mesageContact{
+	float:left;
+	width:500px;
+	height:300px;
+	margin:0px 15px 15px 10px;
+}
+
+#submit{
+	position:absolute;
+	bottom:0px;
+	left:10px;
+}
+.entry{
+	text-orientation:left;
 }
