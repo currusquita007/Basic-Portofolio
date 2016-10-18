@@ -45,6 +45,7 @@ h1{
 
 h2{
 	font-size: 24px;
+	padding-bottom: 10px;
 }
 
 
@@ -74,6 +75,7 @@ a {
 	padding-bottom:20px;
 	padding-top:20px;
 	background-color: white;
+	color: #333333;
 }
 
 #bio-image{
@@ -115,33 +117,32 @@ a {
 }
 
 #nameContact{
-	float:left;
+/*	float:left;*/
 	width:500px;
-	height:15px;
-	margin:10px 15px 15px 10px;
+	height:20px;
+	margin:5px 15px 15px 0px;
 }
 
 #emailContact{
-	float:left;
+	/*float:left;*/
 	width:500px;
-	height:15px;
-	margin:0px 15px 15px 10px;
+	height:20px;
+	margin:0px 15px 15px 0px;
 	
 }
 
 
 #mesageContact{
-	float:left;
+	/*float:left;*/
 	width:500px;
-	height:300px;
-	margin:0px 15px 15px 10px;
+	height:250px;
+	margin:0px 15px 15px 0px;
 }
 
 #submit{
 	position:absolute;
-	bottom:0px;
+	bottom:10px;
 	left:10px;
-}
-.entry{
-	text-orientation:left;
+	background-color: #333333;
+	color:white;
 }
